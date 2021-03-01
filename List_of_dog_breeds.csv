@@ -1,0 +1,95 @@
+,message,status
+affenpinscher,[],success
+african,[],success
+airedale,[],success
+akita,[],success
+appenzeller,[],success
+australian,['shepherd'],success
+basenji,[],success
+beagle,[],success
+bluetick,[],success
+borzoi,[],success
+bouvier,[],success
+boxer,[],success
+brabancon,[],success
+briard,[],success
+buhund,['norwegian'],success
+bulldog,"['boston', 'english', 'french']",success
+bullterrier,['staffordshire'],success
+cairn,[],success
+cattledog,['australian'],success
+chihuahua,[],success
+chow,[],success
+clumber,[],success
+cockapoo,[],success
+collie,['border'],success
+coonhound,[],success
+corgi,['cardigan'],success
+cotondetulear,[],success
+dachshund,[],success
+dalmatian,[],success
+dane,['great'],success
+deerhound,['scottish'],success
+dhole,[],success
+dingo,[],success
+doberman,[],success
+elkhound,['norwegian'],success
+entlebucher,[],success
+eskimo,[],success
+finnish,['lapphund'],success
+frise,['bichon'],success
+germanshepherd,[],success
+greyhound,['italian'],success
+groenendael,[],success
+havanese,[],success
+hound,"['afghan', 'basset', 'blood', 'english', 'ibizan', 'plott', 'walker']",success
+husky,[],success
+keeshond,[],success
+kelpie,[],success
+komondor,[],success
+kuvasz,[],success
+labrador,[],success
+leonberg,[],success
+lhasa,[],success
+malamute,[],success
+malinois,[],success
+maltese,[],success
+mastiff,"['bull', 'english', 'tibetan']",success
+mexicanhairless,[],success
+mix,[],success
+mountain,"['bernese', 'swiss']",success
+newfoundland,[],success
+otterhound,[],success
+ovcharka,['caucasian'],success
+papillon,[],success
+pekinese,[],success
+pembroke,[],success
+pinscher,['miniature'],success
+pitbull,[],success
+pointer,"['german', 'germanlonghair']",success
+pomeranian,[],success
+poodle,"['miniature', 'standard', 'toy']",success
+pug,[],success
+puggle,[],success
+pyrenees,[],success
+redbone,[],success
+retriever,"['chesapeake', 'curly', 'flatcoated', 'golden']",success
+ridgeback,['rhodesian'],success
+rottweiler,[],success
+saluki,[],success
+samoyed,[],success
+schipperke,[],success
+schnauzer,"['giant', 'miniature']",success
+setter,"['english', 'gordon', 'irish']",success
+sheepdog,"['english', 'shetland']",success
+shiba,[],success
+shihtzu,[],success
+spaniel,"['blenheim', 'brittany', 'cocker', 'irish', 'japanese', 'sussex', 'welsh']",success
+springer,['english'],success
+stbernard,[],success
+terrier,"['american', 'australian', 'bedlington', 'border', 'dandie', 'fox', 'irish', 'kerryblue', 'lakeland', 'norfolk', 'norwich', 'patterdale', 'russell', 'scottish', 'sealyham', 'silky', 'tibetan', 'toy', 'westhighland', 'wheaten', 'yorkshire']",success
+vizsla,[],success
+waterdog,['spanish'],success
+weimaraner,[],success
+whippet,[],success
+wolfhound,['irish'],success
